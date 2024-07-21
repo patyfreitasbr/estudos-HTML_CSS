@@ -17,7 +17,7 @@ O projetos completos estão nos repositodios públicos, como um tipo de portfól
 
 ### Curso em Vídeo
 
-- Link : [clique aqui]()
+- Link : [clique aqui](https://github.com/patyfreitasbr/estudos-HTML_CSS_JavaScript/tree/main/CursoEmVideo-HTML5eCSS3)
 
 ## Como visualizar o projeto
 
