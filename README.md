@@ -2,7 +2,7 @@
 
 Repositório PRIVADO de projetos CSS, HTML E Javascript!
 Backup de arquivos da minha jornada e evolução no aprendizado dessas linguagens.
-O projetos completos estão nos repositodios públicos, como um especia ede portfólio de estudo/eviçução nas linguagem
+O projetos completos estão nos repositodios públicos, como um tipo de portfólio de estudo/evolução nas linguagem
 
 - [Projetos-HTMLeCSS](https://github.com/patyfreitasbr/projetos-HTMLeCSS)
 - [Projetos-JavaScript](https://github.com/patyfreitasbr/projetos-JavaScript)
