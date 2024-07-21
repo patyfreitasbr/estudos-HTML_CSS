@@ -1,4 +1,4 @@
-# Estudos Html, Css e JavaScript
+# Estudos HTML, CSS e JavaScript
 
 Repositório PRIVADO de projetos CSS, HTML E Javascript!
 Backup de arquivos da minha jornada e evolução no aprendizado dessas linguagens.
