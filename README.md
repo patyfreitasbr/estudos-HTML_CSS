@@ -1,8 +1,8 @@
 # Estudos HTML, CSS e JavaScript
 
-Repositório PRIVADO de projetos CSS, HTML E Javascript!
+Repositório de projetos CSS, HTML E Javascript!
 Backup de arquivos da minha jornada e evolução no aprendizado dessas linguagens.
-O projetos completos estão nos repositodios públicos, como um tipo de portfólio de estudo/evolução nas linguagem
+Projetos completos estão nos repositodios públicos, como um tipo de portfólio de estudo/evolução nas linguagem
 
 - [Projetos-HTMLeCSS](https://github.com/patyfreitasbr/projetos-HTMLeCSS)
 - [Projetos-JavaScript](https://github.com/patyfreitasbr/projetos-JavaScript)
@@ -15,9 +15,7 @@ O projetos completos estão nos repositodios públicos, como um tipo de portfól
 
 # Estudos
 
-### Curso em Vídeo
-
-- Link : [clique aqui](https://github.com/patyfreitasbr/estudos-HTML_CSS_JavaScript/tree/main/CursoEmVideo-HTML5eCSS3)
+-  [Curso em Vídeo - Gustavo Guanabara](https://github.com/patyfreitasbr/estudos-HTML_CSS_JavaScript/tree/main/CursoEmVideo-HTML5eCSS3)
 
 ## Como visualizar o projeto
 
