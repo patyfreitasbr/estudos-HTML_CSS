@@ -1,6 +1,6 @@
-# Estudos HTML, CSS e JavaScript
+# Estudos HTML, CSS
 
-Repositório de projetos CSS, HTML E Javascript!
+Repositório de projetos CSS e HTML!
 Backup de arquivos da minha jornada e evolução no aprendizado dessas linguagens.
 Projetos completos estão nos repositodios públicos, como um tipo de portfólio de estudo/evolução nas linguagem
 
