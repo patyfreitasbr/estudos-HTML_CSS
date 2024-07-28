@@ -8,14 +8,8 @@ Projetos completos estão nos repositodios públicos, como um tipo de portfólio
 - [Projetos-JavaScript](https://github.com/patyfreitasbr/projetos-JavaScript)
 
 ## Indice 🔗
-
-- [Estudos](#estudos)
 - [Como visualizar o projeto](#Como-visualizar-o-projeto)
 - [Contato](#contato)
-
-# Estudos
-
--  [Curso em Vídeo - Gustavo Guanabara](https://github.com/patyfreitasbr/estudos-HTML_CSS_JavaScript/tree/main/CursoEmVideo-HTML5eCSS3)
 
 ## Como visualizar o projeto
 
